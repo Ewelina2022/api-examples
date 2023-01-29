@@ -1,6 +1,20 @@
 {
-["code": "KTW"]["name": "Katowice"]
-["code": "GDN"]["name": "Gdańsk"]
-["code": "KRK"]["name": "Kraków"]
-["code": "WRO"]["name": "Wrocław"]
+  "przykład": [
+    {
+      "code": "KTW", 
+      "city": "Katowice"
+    },
+      {
+      "code": "WRO", 
+      "city": "Wrocław"
+    },
+      {
+      "code": "GDN", 
+      "city": "Gdańsk"
+    },
+      {
+      "code": "KRK", 
+      "city": "Kraków"
+    },
+    ]
 }
