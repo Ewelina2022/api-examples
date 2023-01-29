@@ -1,6 +1,6 @@
 {
-"code": "KTW";
-"code": "GDN";
-"code": "KRK";
-"code": "WRO";
+["code": "KTW"]["name": "Katowice"]
+["code": "GDN"]["name": "Gdańsk"]
+["code": "KRK"]["name": "Kraków"]
+["code": "WRO"]["name": "Wrocław"]
 }
